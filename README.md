@@ -23,4 +23,5 @@ produtos.py: funções e controle
 
 ### Aprendizado obtido durante o projeto
 - Estrutura de dados Array
-- 
+- Arrays unidimensionais
+- Indexação, busca linear, vetorização e máscaras booleanas
