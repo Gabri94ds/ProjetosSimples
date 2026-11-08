@@ -9,4 +9,18 @@ O projeto de atualização de estoques consiste em criar um programa que faça u
 
 ### Estrutura
 O projeto está estruturado em dois arquivos: produtos.py e main.py.
-O primeiro arquivo contém as funções e o segundo arquivo é o programa principal.
+main.py: execução do programa
+produtos.py: funções e controle
+
+### Funcionalidades
+- Consultar produtos
+- Calcular o valor total do estoque
+- Identificar produtos com estoque baixo
+
+### Melhorias futuras
+ -Integração com banco de dados
+ - Interface gráfica
+
+### Aprendizado obtido durante o projeto
+- Estrutura de dados Array
+- 
